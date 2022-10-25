@@ -1,0 +1,23 @@
+.collapse{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.navbar{
+    background-color:grey ;
+}
+.jumbotron{
+    background-color: grey;
+    padding-top: 2rem;
+}    
+.body{
+    background-color: grey;
+}
+.footer{
+    background-color: grey;
+}
+section{
+    padding-top: 5rem;
+}
